@@ -7,6 +7,11 @@ This repository contains the implementation and visualization of a Reinforcement
   <img width="200" height="200" src="case1.gif">
 </p>
 
+## Authors
+
+Lucas LUGAO <@lucaslugao>  
+Victor VIANNA <@victorvianna>  
+
 ## How to run
 
 
