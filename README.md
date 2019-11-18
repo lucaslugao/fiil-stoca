@@ -27,3 +27,6 @@ Once the image is built run it with
 ```shell
 $ > ./scripts/run.sh
 ```
+
+## Presentation slides
+A presentation covering the background, motivation and proof overview for the paper can be found [here](slides.pdf).
